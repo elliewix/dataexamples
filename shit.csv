@@ -1,0 +1,12 @@
+﻿name,red,green,blue,_group_
+lack,0,0,0,0
+red,255,0,0,1
+maroon,128,0,0,2
+lime,0,255,0,3
+green,0,128,0,4
+blue,0,0,255,5
+navy,0,0,128,6
+yellow,255,255,0,7
+fuchsia,255,0,255,8
+aqua,0,255,255,9
+white,255,255,255,10
